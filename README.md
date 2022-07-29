@@ -1,6 +1,8 @@
 <h1>Technocy</h1>
-        
-        <h3>Website Description:</h3>
+        <h5>Website Description : 
+     
+        </h5>
+
         <p>This is a Warhouse website of electrical products. Here i have implemented so many features by using React js, React Router and deployed in netlify. The key sections of this project described below:</p>
         <ul>
             <li>Home Section</li>
